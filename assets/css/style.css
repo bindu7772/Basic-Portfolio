@@ -101,3 +101,11 @@ header{
         float: left;
         margin-top: 10px;
     }
+    #linkedin{
+        width: 100px;
+        height: 100px;
+        display: inline-block;
+        float: left;
+        margin-left: -1px;
+        margin-top: 10px;
+    }
