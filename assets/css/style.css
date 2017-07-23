@@ -109,3 +109,10 @@ header{
         margin-left: -1px;
         margin-top: 10px;
     }
+    #gmail{
+        width: 115px;
+        height: 115px;
+        display: inline-block;
+        float: left;
+        margin-left: -6px;
+    }
