@@ -88,7 +88,7 @@ header{
                 float: left;
                 margin-right:25px;
     }
-    p{
+    #random_text, #random_text1{
                 margin-right:25px;
                 margin-left: 25px;
                 line-height: 25px;
@@ -115,4 +115,27 @@ header{
         display: inline-block;
         float: left;
         margin-left: -6px;
+    }
+
+
+    /*Stylesheet for contact file*/
+    #form_name,#form_email,#form_msg{
+        text-align: left;
+        color: gray;
+        margin-left: 25px;
+    }
+    #frm_name, #frm_email,#frm_msg{
+        margin-left: 25px;
+        margin-right: 25px;
+        width: 90%;
+    }
+    #form_submit{
+        margin-left: 25px;
+        margin-top: 10px;
+        height: 30px;
+        width: 75px;
+        background-color: #17a4b7;
+        border: none;
+        color: white;
+        font-weight: bold;
     }
