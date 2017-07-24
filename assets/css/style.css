@@ -146,10 +146,17 @@ header{
     #img1{
         float: left;
         margin-left: 25px;
-        height: 150px;
-        width: 150px;
-        margin-top: 25px;
-        position: absolute;
+        height: 155px;
+        width: 155px;
+        margin-top: 40px;
+    }
+
+    #img2,#img3{
+        float: left;
+        margin-left: 5px;
+        height: 155px;
+        width: 155px;
+        margin-top: 40px;
     }
 
 
