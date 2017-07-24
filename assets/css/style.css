@@ -159,5 +159,81 @@ header{
         margin-top: 40px;
     }
 
+    #div_img1,#div_img2,#div_img3,#div_img4,#div_img5,#div_img6{
+        position: relative;
+    }
+
+    #p_img1{
+        position:absolute;
+        width:155px;
+        height:30px;
+        background-color: black;
+        color: white;
+        left: 25px;
+        top:122px;
+        text-align:center;
+        padding-top: 7px;
+    }
+
+    #p_img2{
+        position:absolute;
+        width:155px;
+        height:30px;
+        background-color: black;
+        color: white;
+        left: 210px;
+        top:122px;
+        text-align:center;
+        padding-top: 7px;
+    }
+
+    #p_img3{
+        position:absolute;
+        width:155px;
+        height:30px;
+        background-color: black;
+        color: white;
+        left: 395px;
+        top:122px;
+        text-align:center;
+        padding-top: 7px;
+    }
+
+    #p_img4{
+        position:absolute;
+        width:155px;
+        height:30px;
+        background-color: black;
+        color: white;
+        left: 25px;
+        top:318px;
+        text-align:center;
+        padding-top: 7px;
+    }
+
+    #p_img5{
+        position:absolute;
+        width:155px;
+        height:30px;
+        background-color: black;
+        color: white;
+        left: 210px;
+        top:318px;
+        text-align:center;
+        padding-top: 7px;
+    }
+
+    #p_img6{
+        position:absolute;
+        width:155px;
+        height:30px;
+        background-color: black;
+        color: white;
+        left: 395px;
+        top:318px;
+        text-align:center;
+        padding-top: 7px;
+    }
+
 
 
