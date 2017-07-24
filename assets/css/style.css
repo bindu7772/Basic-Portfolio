@@ -143,7 +143,7 @@ header{
 
 /*Style sheet for portfolio.html*/
 
-    #img1{
+    #img1,#img4{
         float: left;
         margin-left: 25px;
         height: 155px;
@@ -151,12 +151,13 @@ header{
         margin-top: 40px;
     }
 
-    #img2,#img3{
+    #img2,#img3,#img5,#img6{
         float: left;
         margin-left: 5px;
         height: 155px;
         width: 155px;
         margin-top: 40px;
     }
+
 
 
