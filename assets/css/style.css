@@ -139,3 +139,17 @@ header{
         color: white;
         font-weight: bold;
     }
+
+
+/*Style sheet for portfolio.html*/
+
+    #img1{
+        float: left;
+        margin-left: 25px;
+        height: 150px;
+        width: 150px;
+        margin-top: 25px;
+        position: absolute;
+    }
+
+
